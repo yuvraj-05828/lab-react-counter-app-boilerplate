@@ -16,7 +16,7 @@ Your task is to create a simple `counter app`, as shown below:
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/counter-app-ss.png)
 
-**NOTE:** The design need to be exactly the same, but the structure must be same. The structure should be as follows:
+**NOTE:** The design need not be exactly the same, but the structure must be same. The structure should be as follows:
 
 1. Name of the app --> `Counter App`
 2. Below the name of the app, the `counter` should be displayed.
