@@ -14,7 +14,8 @@ Whenever you create a first significant change, you should make your first commi
 
 Your task is to create a simple `counter app`, as shown below:
 
-![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/counter-app-ss.png)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/109285740/208039645-41a2979d-b8e7-43a8-bef7-71098ae8757f.gif)
+
 
 **NOTE:** The design need not be exactly the same, but the structure must be same. The structure should be as follows:
 
